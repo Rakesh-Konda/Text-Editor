@@ -1,0 +1,90 @@
+.bg {
+  background-color: #25262c;
+  height: 100vh;
+  padding: 50px;
+}
+.bg1 {
+  background-color: black;
+  height: 500px;
+  display: flex;
+}
+.h1 {
+  color: white;
+  margin: 20px;
+}
+.im {
+  width: 400px;
+  height: 400px;
+  margin: 20px;
+}
+.rd {
+  background-color: #25262c;
+  height: 80px;
+  margin: 20px;
+  margin-bottom: 20px;
+  width: 400px;
+}
+.bold {
+  background-color: transparent;
+  border: 0px solid transparent;
+  color: #f1f5f9;
+  margin: 10px;
+  font-weight: normal;
+}
+.italic {
+  background-color: transparent;
+  border: 0px solid transparent;
+  color: #f1f5f9;
+  margin: 10px;
+  font-style: normal;
+}
+.under {
+  background-color: transparent;
+  border: 0px solid transparent;
+  color: #f1f5f9;
+  margin: 10px;
+}
+.inp {
+  background-color: #25262c;
+  width: 400px;
+  height: 400px;
+  border: 0px solid transparent;
+  color: #f1f5f9;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+}
+.boldChange {
+  color: #faff00;
+  font-weight: bold;
+  background-color: transparent;
+  border: 0px solid transparent;
+  margin: 10px;
+}
+.italicChange {
+  color: #faff00;
+  font-style: italic;
+  background-color: transparent;
+  border: 0px solid transparent;
+  margin: 10px;
+}
+.underChange {
+  color: #faff00;
+  text-decoration: normal;
+  background-color: transparent;
+  border: 0px solid transparent;
+  margin: 10px;
+}
+.boldStyle {
+  font-weight: bold;
+}
+.italicStyle {
+  font-style: italic;
+}
+.underStyle {
+  text-decoration: underline;
+}
+.ul {
+  list-style-type: none;
+  display: flex;
+}
